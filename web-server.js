@@ -1,6 +1,4 @@
-// A very basic web server in node.js
-
-// Stolen from: Node.js for Front-End Developers by Garann Means (p. 9-10)
+// A very basic web server written in Node.js
 
 
 
