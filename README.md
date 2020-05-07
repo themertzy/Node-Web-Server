@@ -6,6 +6,10 @@ A collection of simple web servers for projects ranging from web development to 
 Documentation
 
 
+Node-JS-HTTP-Server.js 
+
+Python-HTTP-Server.py
+
 
 
 
