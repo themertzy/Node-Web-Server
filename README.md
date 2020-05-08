@@ -3,10 +3,11 @@ A collection of simple web servers for projects ranging from web development to 
 
 ## Documentation
 
+### Web Development
 
-Node-JS-HTTP-Server.js 
+* Node-JS-HTTP-Server.js 
 
-Python-HTTP-Server.py
+* Python-HTTP-Server.py
 
 
 
