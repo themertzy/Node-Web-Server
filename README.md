@@ -10,9 +10,9 @@ A collection of simple web servers for projects ranging from web development to 
 * Python-HTTP-Server.py
 
 
-#### Proxy Servers
+#### Proxy Servers - *Coming Soon!*
 
-*Coming Soon!*
+
 
 
 
