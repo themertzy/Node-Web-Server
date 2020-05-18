@@ -12,7 +12,7 @@ A collection of simple web servers for projects ranging from web development to 
 
 #### Proxy Servers
 
-*Simple-HTTP-Proxy.py
+* Simple-HTTP-Proxy.py
 
 
 
